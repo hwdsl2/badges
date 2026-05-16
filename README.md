@@ -6,7 +6,7 @@ Cached badge SVGs for use in project READMEs.
 
 | Badge | Image |
 |---|---|
-| ai-stack (sum) | ![docker-pulls-ai-stack](img/docker-pulls-ai-stack.svg) |
+| ai-stack | ![docker-pulls-ai-stack](img/docker-pulls-ai-stack.svg) |
 | docling-server | ![docker-pulls-docling-server](img/docker-pulls-docling-server.svg) |
 | embeddings-server | ![docker-pulls-embeddings-server](img/docker-pulls-embeddings-server.svg) |
 | headscale-server | ![docker-pulls-headscale-server](img/docker-pulls-headscale-server.svg) |
